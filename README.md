@@ -1,4 +1,4 @@
-ðŸ’¥WelcomeðŸ’¥
+Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
@@ -24,7 +24,7 @@ MR.OGGY <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 - `pip install bs4`
 - `rm -rf GREEN-LOVER`
 - `git clone https://github.com/SKBER-CYBER/GREEN-LOVER.git`
-- `cd DMC`
+- `cd GREEN-LOVER`
 - `python LOVER.py`
 
 
